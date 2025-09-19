@@ -37,4 +37,5 @@ The categories of users that will benefit from our movie recommendation system a
 ## Movie Profit
 
 When a new movie is planned, it is normal for the producers of the movie to hope to make a profit:
+
 **_Profit (USD) = Revenue (USD) – Budget (USD)_**
