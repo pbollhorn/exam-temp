@@ -16,11 +16,6 @@ We will address two challenges:
 ## Movie Recommendations
 It is normal for streaming platforms to show personalized movie recommendations to their users, because they want to keep their users engaged by suggesting them movies they're likely to enjoy. These personalized recommendations can be generated using various methods:
 
-
-
-
-
-
 | Method                                    | Explanation                                                                                                                                                                           |
 |:------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Content-Based Filtering (CBF)             | Recommends movies to you by looking at the attributes of the movies you have already enjoyed (e.g., genre, actors, director) and suggest other movies with similar characteristics.   |
@@ -29,5 +24,8 @@ It is normal for streaming platforms to show personalized movie recommendations 
 | Deep Learning-Based Recommendations       | (A more advanced method which will not be explained here)                                                                                                                             |
 | Hybrid Systems                            | Combinations of two or more of the above methods                                                                                                                                      |
 
+How much a user enjoys a movie can be assessed explicitly or implicitly:
+- explicitly: e.g. a rating from 0–10 or thumbs up/thumbs down
+- implicitly: e.g. watch time / number of times watched
 
 ## Movie Profit
