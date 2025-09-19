@@ -28,8 +28,6 @@ How much a user enjoys a movie can be assessed explicitly or implicitly:
 - Explicitly: E.g. a rating from 0–10 or thumbs up/thumbs down.
 - Implicitly: E.g. watch time / number of times watched.
 
-We will focus on Content-Based Filtering and Collaborative Filtering.
-
-And for rating system we will use a 5-star scale, with half-star increments (0.5 stars - 5.0 stars)
+We will focus on Content-Based Filtering and Collaborative Filtering. And for rating system we will use a 5-star scale, with half-star increments (0.5 stars - 5.0 stars)
 
 ## Movie Profit
