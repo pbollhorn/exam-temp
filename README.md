@@ -39,3 +39,9 @@ The categories of users that will benefit from our movie recommendation system a
 When a new movie is planned, it is normal for the producers of the movie to hope to make a profit:
 
 **_Profit (USD) = Revenue (USD) – Budget (USD)_**
+
+We will use TMDB Data from the recent years: Perhaps 5 years, 15 years or 25 years.
+
+We will work with American Movies with Revenue, Budget and Profit in USD.
+
+We will adjust the amounts in USD for inflation and analyze everything in 2025 US-Dollars.
