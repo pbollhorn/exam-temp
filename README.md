@@ -25,8 +25,8 @@ It is normal for streaming platforms to show personalized movie recommendations 
 |:------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Content-Based Filtering (CBF)             | Recommends movies to you by looking at the attributes of the movies you have already enjoyed (e.g., genre, actors, director) and suggest other movies with similar characteristics.|
 | Collaborative Filtering (CF)              | User-Based CF:<br>Recommends movies to you by looking at users who have enjoyed the same movies as you, and then suggest you other movies they have enjoyed.<br><br>Item-Based CF:<br>sdfsdfsdfsdf                 |
-| Matrix Factorization                      | (A more advanced method)  |
-| Deep Learning-Based Recommendations       | (A more advanced method)  |
+| Matrix Factorization                      | (A more advanced method which will not be explained here)  |
+| Deep Learning-Based Recommendations       | (A more advanced method which will not be explained here)  |
 | Hybrid Systems                            | Combinations of two or more of the above methods
 
 
