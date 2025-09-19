@@ -27,7 +27,7 @@ It is normal for streaming platforms to show personalized movie recommendations 
 | Collaborative Filtering (CF)              | User-Based CF:<br>Recommends movies to you by looking at users who have enjoyed the same movies as you, and then suggest you other movies they have enjoyed.<br><br>Item-Based CF:<br>sdfsdfsdfsdf                 |
 | Matrix Factorization                      | (A more advanced method)  |
 | Deep Learning-Based Recommendations       | (A more advanced method)  |
-| Hybrid Systems                            | Combinations of the above methods
+| Hybrid Systems                            | Combinations of two or more of the above methods
 
 
 ## Movie Profit
