@@ -44,4 +44,4 @@ We will use TMDB Data from the recent years: Perhaps 5 years, 15 years or 25 yea
 
 We will work with American Movies with Revenue, Budget and Profit in USD.
 
-We will adjust the amounts in USD for inflation and analyze everything in 2025 US-Dollars.
+We will adjust the amounts for inflation and analyze everything in 2025 US-Dollars.
