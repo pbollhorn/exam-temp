@@ -35,3 +35,6 @@ The categories of users that will benefit from our movie recommendation system a
 - MovieStream as a company - If users tend to be entertained when they use MovieStream they are more likely to keep the subscription, and to recommend MovieStream to others.
 
 ## Movie Profit
+
+When a new movie is planned, it is normal for the producers of the movie to hope to make a profit:
+profit (USD) = revenue (USD) – budget (USD)
