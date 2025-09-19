@@ -32,7 +32,7 @@ We will build a movie recommendation system for MovieStream using Content-Based 
 
 The categories of users that will benefit from our movie recommendation system and why:
 - The end users of MovieStream - They will be suggested movies they are likely to enjoy, so when they sit down to watch a movie they will be entertained rather than bored.
-- MovieStream as a company - If users tend to be entertained when they use MovieStream they are more likely to keep the subscription, and to recommend MovieStream to others.
+- MovieStream as a company - If users tend to be entertained when they use MovieStream they are more likely to keep their subscription, and to recommend MovieStream to others.
 
 ## Movie Profit
 
