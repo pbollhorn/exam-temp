@@ -29,12 +29,5 @@ It is normal for streaming platforms to give personalized content recommendation
 | Deep Learning-Based Recommendations       | (A more advanced method)  |
 | Hybrid Systems                            | Combinations of the above methods
 
-- Content-Based Filtering (CBF) - Recommends movies by looking at the attributes of the movies which the user has already enjoyed (e.g., genre, actors, director) and suggest other movies with similar characteristics.
-- User-Based Collaborative Filtering (User-Based CF) - Recommends movies by looking at users who have enjoyed the same movies as you, and then suggest you other movies they have enjoyed.
-- Item-Based Collaborative Filtering (Item-Based CF)
-- Matrix Factorization
-- Deep Learning-Based Recommendations
-- Hybrid Systems
-
 
 ## Movie Profit
