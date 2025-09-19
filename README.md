@@ -21,10 +21,10 @@ It is normal for streaming platforms to give personalized content recommendation
 
 
 
-| Method                                    | Explanation |
-|-------------------------------------------|----------|
-| Content-Based Filtering (CBF)             |  User-Based CF: Recommends movies by looking at the attributes of the movies which the user has already enjoyed (e.g., genre, actors, director) and suggest other movies with similar characteristics.  <br>Item-Based CF: |
-| Collaborative Filtering (User-Based CF)   | Data C   |
+| Method                                    | Explanation                                                                                                                                                                           |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Content-Based Filtering (CBF)             | Recommends movies by looking at the attributes of the movies which the user has already enjoyed (e.g., genre, actors, director) and suggest other movies with similar characteristics.|
+| Collaborative Filtering (CF)              | User-Based CF: Recommends movies by looking at users who have enjoyed the same movies as you, and then suggest you other movies they have enjoyed.<br> Item-Based CF:                 |
 | Row 3    | Data E   |
 
 
