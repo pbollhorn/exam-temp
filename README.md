@@ -25,8 +25,8 @@ It is normal for streaming platforms to show personalized movie recommendations 
 | Hybrid Systems                            | Combinations of two or more of the above methods                                                                                                                                      |
 
 How much a user enjoys a movie can be assessed explicitly or implicitly:
-- Explicitly: e.g. a rating from 0–10 or thumbs up/thumbs down
-- Implicitly: e.g. watch time / number of times watched
+- Explicitly: E.g. a rating from 0–10 or thumbs up/thumbs down
+- Implicitly: E.g. watch time / number of times watched
 
 We will focus on Content-Based Filtering and Collaborative Filtering.
 
