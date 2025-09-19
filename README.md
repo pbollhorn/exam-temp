@@ -32,6 +32,4 @@ We will build a movie recommendation system for MovieStream using Content-Based 
 
 For rating system we will use a 5-star scale, with half-star increments (0.5 stars - 5.0 stars).
 
-The 
-
 ## Movie Profit
