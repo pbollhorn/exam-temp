@@ -20,13 +20,13 @@ It is normal for streaming platforms to show personalized movie recommendations 
 |:------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Content-Based Filtering (CBF)             | Recommends movies to you by looking at the attributes of the movies you have already enjoyed (e.g., genre, actors, director) and suggest other movies with similar characteristics.   |
 | Collaborative Filtering (CF)              | User-Based CF:<br>Recommends movies to you by looking at users who have enjoyed the same movies as you, and then suggest you other movies they have enjoyed.<br><br>Item-Based CF:<br>Recommends movies to you by looking at the "similarity" between movies. If two movies are often liked by the same users they are considered "similar". If you have enjoyed one of these movies, you are likely to get the other one recommended.                               |
-| Matrix Factorization                      | (A more advanced method which will not be explained here)                                                                                                                             |
-| Deep Learning-Based Recommendations       | (A more advanced method which will not be explained here)                                                                                                                             |
-| Hybrid Systems                            | Combinations of two or more of the above methods                                                                                                                                      |
+| Matrix Factorization                      | (A more advanced method which will not be explained here.)                                                                                                                             |
+| Deep Learning-Based Recommendations       | (A more advanced method which will not be explained here.)                                                                                                                             |
+| Hybrid Systems                            | Combinations of two or more of the above methods.                                                                                                                                      |
 
 How much a user enjoys a movie can be assessed explicitly or implicitly:
-- Explicitly: E.g. a rating from 0–10 or thumbs up/thumbs down
-- Implicitly: E.g. watch time / number of times watched
+- Explicitly: E.g. a rating from 0–10 or thumbs up/thumbs down.
+- Implicitly: E.g. watch time / number of times watched.
 
 We will focus on Content-Based Filtering and Collaborative Filtering.
 
