@@ -15,7 +15,7 @@ We will address two challenges:
 
 ## Movie Recommendations
 It is normal for streaming platforms to give personalized content recommendations to their users, because they want to keep their users engaged by showing them content they're likely to enjoy. These personalized recommendations can be generated in various ways:
-- Content-Based Filtering (CBF) - Look at the attributes of movies which a user has already enjoyed (e.g., genre, actors, director) and suggesting other movies with similar characteristics.
+- Content-Based Filtering (CBF) - Look at the attributes of movies which a user has already enjoyed (e.g., genre, actors, director) and suggest other movies with similar characteristics.
 - Collaborative Filtering (CF)
 - Matrix Factorization
 - Deep Learning-Based Recommendations
