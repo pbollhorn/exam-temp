@@ -22,7 +22,11 @@ It is normal for streaming platforms to give personalized content recommendation
 - Deep Learning-Based Recommendations
 - Hybrid Systems
 
-
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data A   | Data B   |
+| Row 2    | Data C   | Data D   |
+| Row 3    | Data E   | Data F   |
 
 
 ## Movie Profit
