@@ -33,7 +33,7 @@ We will build a movie recommendation system for MovieStream using Content-Based 
 For rating system we will use a 5-star scale, with half-star increments (0.5 stars - 5.0 stars).
 
 The categories of users that will benefit from our movie recommendation system and why:
-- The end users of MovieStream - Because they will be suggested movies that are more likely to enjoy, so when they sit down to watch a movie they will be entertained rather than bored.
+- The end users of MovieStream - Because they will be suggested movies they are likely to enjoy, so when they sit down to watch a movie they will be entertained rather than bored.
 - MovieStream as a company - Because if users tend to be entertained when they use MovieStream they are more likely to keep the subscription, and to recommend MovieStream to others.
 
 ## Movie Profit
